@@ -1,0 +1,33 @@
+# Travel and Touring Application
+
+## Prerequisites
+- Java Development Kit (JDK) installed
+- MySQL Server installed
+- IDE (e.g., IntelliJ IDEA, Eclipse)
+
+## Getting Started
+
+1. **Download the Repository**
+   - Clone the repository using:
+     ```
+     git clone https://github.com/Charul00/Travel-And-Touring-Application.git
+     ```
+
+2. **Setup Database**
+   - Create a MySQL database named `travel_management`.
+   - Import the SQL schema file (if available) to set up tables.
+
+3. **Configure Database Connection**
+   - Update the database connection details in the `Conn.java` file (located in the `travel/management/system` directory).
+
+4. **Run the Application**
+   - Open the project in your preferred IDE.
+   - Run the `Main` class to start the application.
+
+5. **Access the Application**
+   - The GUI will launch, allowing you to manage customer details and tour packages.
+
+## Notes
+- Ensure the MySQL server is running before starting the application.
+- Check the console for any error messages during startup.
+
